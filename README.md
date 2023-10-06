@@ -11,6 +11,12 @@ Salut ! Je suis Thouay Teddy André Baccam, un débile de 26 ans vivant à Marse
 - 🎬 Mon film préféré : "Hot Fuzz" réalisé par Edgar Wright.
 - 📷 Amateur de photographie.
 - 🚶‍♂️ Amateur de marche.
+- - 🎮 Je suis un grand fan de jeux vidéo, notamment :
+  - 🎮 Fallout: New Vegas
+  - 🎮 Payday 2 & 3
+  - 🎮 Cyberpunk 2077
+  - 🎮 Red Dead Redemption 2
+  - Et bien d'autres !
 
 ## Un peu plus en détail
 
