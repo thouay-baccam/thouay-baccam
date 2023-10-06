@@ -1,6 +1,6 @@
 # Thouay Teddy André Baccam
 
-Salut ! Je suis Thouay Teddy André Baccam, un débile de 26 ans vivant à Marseille et d'origine franco-laotien.
+Salut ! Je suis Thouay Teddy André Baccam, un débile de 26 ans vivant à Marseille et d'origine franco-laotienne.
 
 ## À propos de moi
 
