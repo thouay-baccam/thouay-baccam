@@ -24,7 +24,7 @@ Salut ! Je suis Thouay Teddy André Baccam, un débile de 26 ans vivant à Marse
 Depuis mon enfance, le cinéma m'a toujours fasciné. J'adore l'art de la mise en scène, la narration et la magie de l'écran.
 
 ### Art
-Je suis un admirateur inconditionnel de l'art, mais l'œuvre de Vincent van Gogh occupe une place particulière dans mon cœur. Sa manière unique de capturer l'essence de la vie dans ses tableaux me fascine.
+Je suis un admirateur inconditionnel de l'art, mais les œuvres de Vincent van Gogh occupe une place particulière dans mon cœur. Sa manière unique de capturer l'essence de la vie dans ses tableaux me fascine.
 
 ### Littérature
 "Le Portrait de Dorian Gray" d'Oscar Wilde est mon livre préféré. Cette histoire envoûtante explore les profondeurs de la moralité humaine et de la quête éternelle de la jeunesse et de la beauté.
