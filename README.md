@@ -1,38 +1,22 @@
 # Thouay Teddy André Baccam
 
-Salut ! Je suis Thouay Teddy André Baccam, un débile de 26 ans vivant à Marseille et d'origine franco-laotienne.
+Salut ! Je suis Thouay Teddy André Baccam, un passionné d'informatique de 26 ans vivant à Marseille et d'origine franco-laotienne.
 
 ## À propos de moi
 
+- 💻 Étudiant en informatique à "La Plateforme", où je me plonge dans le monde du codage, du réseau et de la cybersécurité.
+- 📚 J'ai des bases solides dans divers domaines de l'informatique.
+- 🚫 Pas vraiment fan de Java, mais je me débrouille bien en HTML et CSS.
+- 🔒 Mon objectif est de me spécialiser en cybersécurité pour assurer la protection des données et des systèmes.
 - 📽️ Passionné de cinéma et de cinématographie.
 - 🎨 Amateur d'art sous toutes ses formes.
 - 🖼️ Mon artiste préféré est Vincent van Gogh.
 - 📖 Mon livre favori : "Le Portrait de Dorian Gray" par Oscar Wilde.
-- 🎬 Mon film préféré : "Hot Fuzz" réalisé par Edgar Wright.
-- 📷 Amateur de photographie.
-- 🚶‍♂️ Amateur de marche.
-- - 🎮 Je suis un grand fan de jeux vidéo, notamment :
-  - 🎮 Fallout: New Vegas
-  - 🎮 Payday 2 & 3
-  - 🎮 Cyberpunk 2077
-  - 🎮 Red Dead Redemption 2
-  - Et bien d'autres !
 
-## Un peu plus en détail
+## Contact
 
-### Cinéma
-Depuis mon enfance, le cinéma m'a toujours fasciné. J'adore l'art de la mise en scène, la narration et la magie de l'écran.
+- 📧 Email de l'école : [thouay.baccam@laplateforme.io](mailto:thouay.baccam@laplateforme.io)
+- 📧 Email professionnel : [tedbaccam@outlook.fr](mailto:tedbaccam@outlook.fr)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/thouay-baccam-a6ab21297)
 
-### Art
-Je suis un admirateur inconditionnel de l'art, mais les œuvres de Vincent van Gogh occupe une place particulière dans mon cœur. Sa manière unique de capturer l'essence de la vie dans ses tableaux me fascine.
-
-### Littérature
-"Le Portrait de Dorian Gray" d'Oscar Wilde est mon livre préféré. Cette histoire envoûtante explore les profondeurs de la moralité humaine et de la quête éternelle de la jeunesse et de la beauté.
-
-### Photographie
-La photographie est une autre de mes passions. Capturer des moments précieux de la vie en images est une expérience gratifiante.
-
-### Marche
-La marche est mon moyen préféré pour me détendre et me ressourcer. Rien de tel qu'une longue promenade pour apaiser l'esprit et admirer la beauté de notre environnement.
-
-Merci d'avoir pris le temps de découvrir un peu de ma vie et de mes intérêts !
+**DEDICACE A THÉO, LELYO, RACHID & CHAIMA, LES B.B.B.B.B**
